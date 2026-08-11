@@ -17,8 +17,15 @@
 
 ## 🛠️ Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,html,css,git,github,visualstudio,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet" />
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?logo=python" />
+  <img src="https://img.shields.io/badge/Networking-Learning-00A4EF" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-darkgreen" />
 </p>
 
 ## 📊 GitHub Statistics
