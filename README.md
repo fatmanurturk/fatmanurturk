@@ -39,6 +39,6 @@ An automation system for membership, authorized guardians, capacity management a
 
 ## 🤝 Connect With Me
 
-<a href="LINKEDIN_ADRESINI_BURAYA_YAZ">
+<a href="https://www.linkedin.com/in/fatma-nur-t%C3%BCrk-789925225/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
 </a>
