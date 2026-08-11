@@ -23,12 +23,18 @@
 
 ## 📊 GitHub Statistics
 
-<p align="left">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=fatmanurturk&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=fatmanurturk&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Fatma Nur GitHub Statistics"
+  />
 
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurturk&layout=compact&theme=tokyonight" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurturk&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 ## 🚀 Featured Project
