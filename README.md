@@ -1,57 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fatma Nur</h1>
-<h3 align="center">Software Developer from Türkiye</h3>
+<h3 align="center">A passionate backend developer from Turkey</h3>
 
-<p align="center">
-  💻 C# & .NET • 🗄️ SQL • 🐍 Python • 🌐 Networking • 🔐 Cybersecurity
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 Studying at Fırat University
-- 🔭 Currently working on **PlayAreaAutomation**
-- 🌱 Learning **Networking and Cybersecurity**
-- 💡 Interested in backend development and databases
-- 📫 Connect with me on LinkedIn
-
-## 🛠️ Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,html,css,git,github,visualstudio,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet" />
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?logo=python" />
-  <img src="https://img.shields.io/badge/Networking-Learning-00A4EF" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Learning-darkgreen" />
-</p>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=fatmanurturk&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Fatma Nur GitHub Statistics"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurturk&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
-## 🚀 Featured Project
-
-### 🎠 PlayAreaAutomation
-
-An automation system for membership, authorized guardians, capacity management and notifications.
-
-## 🤝 Connect With Me
-
-<a href="https://www.linkedin.com/in/fatma-nur-t%C3%BCrk-789925225/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
