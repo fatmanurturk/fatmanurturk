@@ -15,8 +15,16 @@
 
 ## 🛠️ Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,html,css,git,github,visualstudio,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java,swift,react,nodejs,postgres,docker,dotnet" />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    width="48"
+    height="48"
+    alt="Microsoft SQL Server"
+    title="Microsoft SQL Server"
+  />
 </p>
 
 ## 📊 GitHub Statistics
