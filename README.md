@@ -38,7 +38,6 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurturk&layout=compact&theme=tokyonight" />
 </p>
 
-## 🚀 Featured Project
 
 ### 🎠 PlayAreaAutomation
 
