@@ -29,8 +29,6 @@
   />
 </p>>
 
-## 📊 GitHub Statistics
-
 <p>
   <img height="165"
        src="https://github-readme-stats.vercel.app/api?username=fatmanurturk&show_icons=true&theme=tokyonight" />
