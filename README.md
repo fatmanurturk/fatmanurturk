@@ -29,12 +29,6 @@
   />
 </p>>
 
-<p>
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=fatmanurturk&show_icons=true&theme=tokyonight" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurturk&layout=compact&theme=tokyonight" />
-</p>
 
 
 ### 🎠 PlayAreaAutomation
